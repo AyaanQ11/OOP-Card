@@ -1,0 +1,15 @@
+Ayaan
+earth
+600
+Marina
+water
+700
+Mercury
+sky
+800
+Evil Ayaan
+fire
+900
+Queen Baker
+water
+1000
