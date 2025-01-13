@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "Res",
+			"path": "../.."
+		},
+		{
+			"name": "earthdeck",
+			"path": "../../../../../Downloads/ISU-FINAL-GROUP-SUBMISSION-1-ics-4u1-period-2-1/earthdeck"
+		},
+		{
+			"name": "firedeck",
+			"path": "../../../../../Downloads/ISU-FINAL-GROUP-SUBMISSION-1-ics-4u1-period-2-1/firedeck"
+		},
+		{
+			"name": "waterdeck",
+			"path": "../../../../../Downloads/ISU-FINAL-GROUP-SUBMISSION-1-ics-4u1-period-2-1/waterdeck"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
